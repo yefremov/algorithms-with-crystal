@@ -1,7 +1,7 @@
-
-# Returns fibonacci value of `n`.
+# Returns fibonacci value of number *n*.
 #
 # ```
+# fib(3) # => 3
 # fib(5) # => 8
 # ```
 def fib(n : Int) : Int
