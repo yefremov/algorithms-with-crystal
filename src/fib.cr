@@ -4,6 +4,6 @@
 # ```
 # fib(5) # => 8
 # ```
-def fib(n)
+def fib(n : Int) : Int
   n < 2 ? 1 : fib(n - 1) + fib(n - 2)
 end

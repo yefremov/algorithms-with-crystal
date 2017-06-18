@@ -4,7 +4,7 @@
 # ```
 # coprime(13, 27) # => false
 # ```
-def coprime(a, b)
+def coprime(a : Int, b : Int) : Bool
   while a != b
     if a < b
       a -= b
