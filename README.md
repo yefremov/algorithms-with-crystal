@@ -7,8 +7,8 @@ This is a collection of different algorithms written in Crystal. The purpose of 
 ### Iterative
 
   - [x] coprime
-  - [ ] maxsubarray
-  - [ ] isprime
+  - [x] maxsub
+  - [x] isprime
 
 ### Recursive
 
