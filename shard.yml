@@ -4,6 +4,6 @@ version: 0.0.1
 authors:
   - Anton Yefremov <anton.yefremov@gmail.com>
 
-crystal: 0.22.0
+crystal: 0.23.0
 
 license: MIT
